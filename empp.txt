@@ -1,0 +1,4 @@
+1,bhaskar,1000
+2,sai,2000
+3,chaitanya,3000
+4,teja,4000
